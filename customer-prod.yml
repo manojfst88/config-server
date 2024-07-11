@@ -5,7 +5,7 @@ build:
 customer:
   message: "Welcome to customer service related local Production APIs"
   contactDetails:
-    name: "Manoj - Technical PROD Lead"
+    name: "Manoj - Technical Production Lead"
     email: "manoj@practice.com"
   onCallSupport:
     - +919884137236
